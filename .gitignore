@@ -2,3 +2,4 @@ server.js.debug
 node_modules/
 iisnode/
 hello.txt
+prime.txt
