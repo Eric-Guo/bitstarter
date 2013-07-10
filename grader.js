@@ -53,7 +53,7 @@ var loadChecks = function(checksfile) {
 };
 
 var checkHtmlFile = function(htmlfile, url, checksfile) {
-    if (url) {
+    if (url === "") {
       $ = restlerURL(url);
     } else {
       $ = cheerioHtmlFile(htmlfile);
