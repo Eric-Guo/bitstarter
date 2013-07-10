@@ -1,1 +1,1 @@
-https://github.com/Eric-Guo/startup-node/blob/a78c29ee01b41914f13766c99eba6ad6cb406d63/index.html
+https://github.com/Eric-Guo/bitstarter/blob/a78c29ee01b41914f13766c99eba6ad6cb406d63/index.html
