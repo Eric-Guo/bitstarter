@@ -3,3 +3,4 @@ node_modules/
 iisnode/
 hello.txt
 prime.txt
+*.sublime-workspace

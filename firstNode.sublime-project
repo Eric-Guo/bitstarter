@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": [".idea","tmp","images","public/assets"],
+			"file_exclude_patterns": [".gitkeep",".tags*","*.sublime-workspace"]
+		}
+	],
+    "settings":
+    {
+        "tab_size": 2
+    }
+}
